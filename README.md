@@ -279,5 +279,3 @@
 - Document the backlog of tasks in Markdown.
 - Validate API endpoints using a Postman Collection file.
 ```
-
-These files will help you maintain comprehensive documentation for your project. Feel free to expand and modify the content as needed.
