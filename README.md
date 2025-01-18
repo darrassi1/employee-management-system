@@ -1,8 +1,5 @@
-Sure! Here are some examples of how to maintain documentation in Markdown files to describe your API endpoints, data models, and use cases, as well as documenting your backlog of tasks.
-
 ### API Endpoints Documentation
 
-Create a file named `API_Documentation.md`:
 
 ```markdown
 # API Documentation
@@ -170,7 +167,6 @@ Create a file named `API_Documentation.md`:
 
 ### Data Models Documentation
 
-Create a file named `Data_Models.md`:
 
 ```markdown
 # Data Models
@@ -210,7 +206,6 @@ Create a file named `Data_Models.md`:
 
 ### Use Cases Documentation
 
-Create a file named `Use_Cases.md`:
 
 ```markdown
 # Use Cases
@@ -260,7 +255,6 @@ Create a file named `Use_Cases.md`:
 
 ### Backlog of Tasks Documentation
 
-Create a file named `Backlog.md`:
 
 ```markdown
 # Backlog of Tasks
